@@ -3,6 +3,7 @@ View trends in baby name popularity based on US social security data from 1980-2
 
 ### The data set: U.S. Baby Names
 Multiple tables, 2.212.412 records. Baby names over three decades broken down by state, gender and birth year.
++ [Download] https://app.mavenanalytics.io/guided-projects/f71c0a2b-05f4-43fe-a80c-8f3f86964ccc
 
 ### Objective 1: Track changes in name popularity
 The first objective is to see how the most popular names have changed over time, and also to identify the names that have jumped the most in terms of popularity.
